@@ -1,0 +1,16 @@
+{
+  "name": "gobble-markdown-styles",
+  "version": "0.1.0",
+  "description": "Transform markdown files to HTML in your GobbleJS workflow.",
+  "main": "gobble-markdown-styles.js",
+  "keywords": [
+    "gobble",
+    "gobble-plugin",
+    "documentation"
+  ],
+  "author": "Iván Sánchez Ortega <ivan@sanchezortega.es>",
+  "license": "Beerware",
+  "dependencies": {
+    "markdown-styles": "^3.1.4"
+  }
+}
