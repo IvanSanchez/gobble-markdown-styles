@@ -1,4 +1,4 @@
-# gobble-markdown
+# gobble-markdown-styles
 
 Transform MarkDown files to HTML in your GobbleJS workflow
 
